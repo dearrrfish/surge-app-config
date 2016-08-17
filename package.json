@@ -1,0 +1,27 @@
+{
+  "name": "surge-app-config",
+  "version": "1.0.0",
+  "description": "> Inspired by [@janlay](https://gist.github.com/janlay/b57476c72a93b7e622a6) and rules from [@scomper](https://gist.github.com/scomper/b0c6129840272c136a82).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dearrrfish/surge-app-config.git"
+  },
+  "author": "dearrrfish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dearrrfish/surge-app-config/issues"
+  },
+  "homepage": "https://github.com/dearrrfish/surge-app-config#readme",
+  "keywords": [
+    "surge",
+    "config",
+    "preprocess"
+  ],
+  "dependencies": {
+    "preprocess-cli": "0.1.0"
+  }
+}

@@ -1,0 +1,2 @@
+#!/bin/bash
+./node_modules/.bin/preprocess config/index.conf -f coffee -c "$1" > "$2"
